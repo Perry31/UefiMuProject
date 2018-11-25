@@ -1,2 +1,2 @@
 # UefiMuProject
-Copy of MuProject
+Repository to maintain copy of MuProject
